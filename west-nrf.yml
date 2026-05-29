@@ -13,5 +13,5 @@ manifest:
   - name: Anjay-lite-zephyr-module
     submodules: true
     remote: anjay-lite
-    revision: 14d66f040ef7c4799a9bccae6231f26564b1c4ed
+    revision: e731c9e79eddd3f954dd78db2f8880b285d024d8
     path: modules/lib/anjay-lite-zephyr-module
